@@ -1,0 +1,3 @@
+Hello again , I'm in process . until now i've learnt about 
+git status , git add , got commit -m "message in the present" 
+and finaly git log .
